@@ -1,0 +1,2 @@
+# CodiClient
+a eaglercraft client
